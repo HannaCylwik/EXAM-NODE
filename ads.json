@@ -1,1 +1,125 @@
-[{"nickname":"miecio","id":3,"category":"car","ad":"sprzedam opla","price":"100"},{"nickname":"mirek","id":5,"category":["car"],"ad":"sprzedam opla"},{"nickname":"mirek","id":6,"category":["car"],"ad":"sprzedam opla"},{"nickname":"mirek","id":7,"category":["car"],"ad":"sprzedam opla"},{"nickname":"robcioo","id":8,"category":["toys"],"ad":"kupie lego nindżago"},{"nickname":"mirek","id":12,"category":["car"],"ad":"sprzedam opla","price":0},{"nickname":"mirek","id":13,"category":["car"],"ad":"sprzedam opla","price":0},{"nickname":"mirek","id":14,"category":["car"],"ad":"sprzedam opla","price":"br"},{"nickname":"mirek","id":16,"category":["car"],"ad":"sprzedam opla","price":"nm"},{"nickname":"mirek","id":17,"category":["car"],"ad":"sprzedam opla","price":"nm"},{"nickname":"mirek","id":18,"category":["car"],"ad":"sprzedam opla","price":""},{"nickname":"mirek","id":19,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":20,"category":["car"],"ad":"sprzedam opla","price":0},{"nickname":"mirek","id":21,"category":["car"],"ad":"sprzedam opla","price":0},{"nickname":"mirek","id":22,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":23,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":24,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":25,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":26,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":27,"category":["car"],"ad":"sprzedam opla","price":"k"},{"nickname":"mirek","id":28,"category":["car"],"ad":"sprzedam opla","price":"k"}]
+[
+    {
+        "nickname": "miecio",
+        "id": 3,
+        "category": [
+            "car",
+            "tanio"
+        ],
+        "ad": "sprzedam opla",
+        "price": "100"
+    },
+    {
+        "nickname": "mirek",
+        "id": 5,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla"
+    },
+    {
+        "nickname": "mirek",
+        "id": 6,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla"
+    },
+    {
+        "nickname": "opel",
+        "id": 7,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla"
+    },
+    {
+        "nickname": "robcioo",
+        "id": 8,
+        "category": [
+            "toys"
+        ],
+        "ad": "kupie lego nindżago"
+    },
+    {
+        "nickname": "mirek",
+        "id": 12,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla",
+        "price": 0
+    },
+    {
+        "nickname": "mirek",
+        "id": 13,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla",
+        "price": 0
+    },
+    {
+        "nickname": "fikakowo",
+        "id": 14,
+        "category": [
+            "bus"
+        ],
+        "ad": "wielki kack",
+        "price": "br"
+    },
+    {
+        "nickname": "mirek",
+        "id": 16,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla",
+        "price": "nm"
+    },
+    {
+        "nickname": "borek",
+        "id": 17,
+        "category": [
+            "las"
+        ],
+        "ad": "sprzedam borek fałęcki",
+        "price": "nm"
+    },
+    {
+        "nickname": "amaro",
+        "id": 18,
+        "category": [
+            "kitchen"
+        ],
+        "ad": "sprzedam patelnię",
+        "price": ""
+    },
+    {
+        "nickname": "amaro",
+        "id": 19,
+        "category": [
+            "kitchen"
+        ],
+        "ad": "sprzedam kuchnię",
+        "price": "20000"
+    },
+    {
+        "nickname": "marek",
+        "id": 20,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla",
+        "price": 0
+    },
+    {
+        "nickname": "mirek",
+        "id": 21,
+        "category": [
+            "car"
+        ],
+        "ad": "sprzedam opla",
+        "price": 0
+    }
+]

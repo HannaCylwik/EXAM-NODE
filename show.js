@@ -9,8 +9,8 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
     const { id } = req.params;
-    const found = ads.find(ad => ad.id == id);
-    id === true ? res.status(200).send(Object.entries(found)) : res.status(404).send(`Given id "${id}" not found`);
+    const found = ads.find(ad => ad.id == Number(id));
+    found ? res.status(200).send(Object.entries(found)) : res.status(404).send(`Given id "${id}" not found`);
 });
 
 router.get('/cat/:category', (req, res) => {
@@ -27,7 +27,7 @@ router.get('/nick/:nickname', (req, res) => {
 
 router.get('/price/:price', (req, res) => {
     const { price } = req.params;
-    const filtered = ads.filter(ad => ad.price === price);
+    const filtered = ads.filter(ad => ad.price == price);
     filtered.length > 0 ? res.status(200).send(`${filtered.map(el => `\n${Object.entries(el)}\n`)}`) : res.status(404).send(`Given price "${price} not found`)
 });
 

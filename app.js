@@ -1,5 +1,4 @@
 const express = require('express');
-const router = express.Router();
 const show = require('./show');
 const add = require('./add');
 const cut = require('./cut');
